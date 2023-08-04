@@ -1,0 +1,2 @@
+# SpringbootExample
+一个简单的SpringBoot基础项目，实现了数据库内容的web显示
